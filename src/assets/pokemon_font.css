@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Pokemon Solid";
+  font-style: normal;
+  font-weight: 100;
+  src: local("Pokemon Solid"),
+    url("https://fonts.cdnfonts.com/s/17890/Pokemon Solid.woff") format("woff");
+}
+
+body {
+  font-family: "Pokemon Solid", sans-serif;
+  letter-spacing: 0.2em !important;
+}
