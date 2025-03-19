@@ -53,7 +53,7 @@
 ### 1️⃣ Clonar el repositorio
 
 ```sh
-git clone https://github.com/tu-usuario/pokedex-team.git
+git clone https://github.com/Maximustres/luis-bustos-03-2025.git
 cd pokedex-team
 ```
 
@@ -76,7 +76,7 @@ npm run dev
 ## 📬 Contacto y Contribución
 
 📩 Contacto: **[luis.bustos18.lb@gmail.com]**  
-👨‍💻 Repositorio: **[GitHub](https://github.com/)**
+👨‍💻 Repositorio: **[GitHub](https://github.com/Maximustres/luis-bustos-03-2025.git)**
 
 ---
 
