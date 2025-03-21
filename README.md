@@ -54,7 +54,7 @@
 
 ```sh
 git clone https://github.com/Maximustres/luis-bustos-03-2025.git
-cd pokedex-team
+cd luis-bustos-03-2025
 ```
 
 ### 2️⃣ Instalar dependencias
